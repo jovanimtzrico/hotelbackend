@@ -1,5 +1,0 @@
-.idea/*.*
-.idea/libraries
-.idea/libraries/*.*
-/target
-*.iml
